@@ -23,8 +23,8 @@
 
 **1. Registro de Animales**
 
-Case 1: Registrar un nuevo animal.(Create)
-Case 2: Modificar la información de un animal.(Update)
+-Case 1: Registrar un nuevo animal.(Create)
+-Case 2: Modificar la información de un animal.(Update)
 Case 3: Consultar la lista de animales.(List)
 Case 4: Consultar animal por su nombre(List)
 Case 5: Eliminar un animal.(Delete)
