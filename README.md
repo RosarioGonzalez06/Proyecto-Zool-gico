@@ -85,5 +85,6 @@ Case 5: Salir
 
 ## Video de demostración del proyecto
 
-![videomenu]([imagenes/appjava-zoologico-visual-studio-code-2025-04-25-12-28-20_inxIb5EL.mp4](https://youtu.be/xlty5A__LWY?si=EPh_U_MklRg0pFED))
+[![Video del Zoológico](https://img.youtube.com/vi/xlty5A__LWY/0.jpg)](https://youtu.be/xlty5A__LWY?si=EPh_U_MklRg0pFED)
+
 
