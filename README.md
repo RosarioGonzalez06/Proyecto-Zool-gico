@@ -80,4 +80,5 @@ Case 5: Salir
 
 8. Salir
 
+![menu](imagenes/Captura%20de%20pantalla%202025-04-25%20121007.png)
 
