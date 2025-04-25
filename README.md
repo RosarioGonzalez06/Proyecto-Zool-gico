@@ -23,60 +23,91 @@
 
 **1. Registro de Animales**
 
--Case 1: Registrar un nuevo animal.(Create)
+- Case 1: Registrar un nuevo animal.(Create)
 
 - Case 2: Modificar la información de un animal.(Update)
-Case 3: Consultar la lista de animales.(List)
-Case 4: Consultar animal por su nombre(List)
-Case 5: Eliminar un animal.(Delete)
-Case 6: Crear fichero con la lista de animales disponibles (Export)
-Case 7: Salir
+  
+- Case 3: Consultar la lista de animales.(List)
+  
+- Case 4: Consultar animal por su nombre(List)
+ 
+- Case 5: Eliminar un animal.(Delete)
+  
+- Case 6: Crear fichero con la lista de animales disponibles (Export)
+  
+- Case 7: Salir
 
 **2. Registro de cuidadores**
 
-Case 1: Agregar un nuevo cuidador.(Create)
-Case 2: Actualizar datos de un cuidador.(Update)
-Case 3:Asignar animales a cuidadores.(Insert)
-Case 4: Listar cuidador por su nombre y apellido.(List)
-Case 5: Listar cuidadores y los animales que cuidan.(List)
-Case 6: Eliminar un cuidador.(Delete)
-Case 7: Crear fichero con la lista de cuidadores disponibles(Export)
-Case 8: Salir
+- Case 1: Agregar un nuevo cuidador.(Create)
+  
+- Case 2: Actualizar datos de un cuidador.(Update)
+  
+- Case 3:Asignar animales a cuidadores.(Insert)
+  
+- Case 4: Listar cuidador por su nombre y apellido.(List)
+  
+- Case 5: Listar cuidadores y los animales que cuidan.(List)
+  
+- Case 6: Eliminar un cuidador.(Delete)
+  
+- Case 7: Crear fichero con la lista de cuidadores disponibles(Export)
+  
+- Case 8: Salir
 
 **3. Registrar cargos**
 
-Case 1:Registrar un nuevo cargo(Create)
-Case 2: Listar cargos(List)
-Case 3: Eliminar cargo(Delete)
-Case 4: Crear fichero con la lista de cargos disponibles(Export)
-Case 5: Salir
+- Case 1:Registrar un nuevo cargo(Create)
+  
+- Case 2: Listar cargos(List)
+  
+- Case 3: Eliminar cargo(Delete)
+  
+- Case 4: Crear fichero con la lista de cargos disponibles(Export)
+  
+- Case 5: Salir
 
 **4. Registro de recintos**
 
-Case 1:Registrar un nuevo recinto.(Create)
-Case 2: Consultar los recintos(List)
-Case 3: Consultar recinto por nombre(List)
-Case 4: Eliminar recinto(Delete)
-Case 5: Crear fichero con la lista de recintos disponibles(Export)
-Case 6: Salir
+- Case 1:Registrar un nuevo recinto.(Create)
+  
+- Case 2: Consultar los recintos(List)
+  
+- Case 3: Consultar recinto por nombre(List)
+  
+- Case 4: Eliminar recinto(Delete)
+  
+- Case 5: Crear fichero con la lista de recintos disponibles(Export)
+  
+- Case 6: Salir
 
 **5. Registro de especies**
 
-Case 1:Registrar una nueva especie.(Create)
-Case 2: Consultar especie por tipo(List)
-Case 3: Consultar todas las especies(List)
-Case 4: Eliminar especie(Delete)
-Case 5: Crear fichero con la lista de especies disponibles(Export)
-Case 6:Salir
+- Case 1:Registrar una nueva especie.(Create)
+  
+- Case 2: Consultar especie por tipo(List)
+  
+- Case 3: Consultar todas las especies(List)
+  
+- Case 4: Eliminar especie(Delete)
+  
+- Case 5: Crear fichero con la lista de especies disponibles(Export)
+  
+- Case 6:Salir
 
 **6. Alimentación**
 
-Case 1: Registrar un nuevo alimento.(Create)
-Case 2: Asignar alimentos a animales (Insert)
-Case 2: Ver qué animales se alimentan de un determinado alimento.(List)
-Case 3: Eliminar un alimento.(Delete)
-Case 4: Crear fichero con la lista de alimentos disponibles(Export)
-Case 5: Salir
+- Case 1: Registrar un nuevo alimento.(Create)
+  
+- Case 2: Asignar alimentos a animales (Insert)
+  
+- Case 2: Ver qué animales se alimentan de un determinado alimento.(List)
+  
+- Case 3: Eliminar un alimento.(Delete)
+  
+- Case 4: Crear fichero con la lista de alimentos disponibles(Export)
+  
+- Case 5: Salir
 
 **7. Eliminar fichero(Delete)**
 
