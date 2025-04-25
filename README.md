@@ -14,10 +14,10 @@ Cuidador: se debe registrar su código, nombre, apellido,fecha de nacimiento, ca
 Alimento: se debe registrar su código y nombre.Un alimento es comido por muchos animales o por ninguno si todavía no se ha decidido a quién dárselo.
 
 # Diagrama Entidad-Relación
-![Diagrama ER](file:///C:/Users/sanca/OneDrive/Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20de%20pantalla%202025-04-22%20134903.png)
+![Diagrama ER](/imagenes/Captura%20de%20pantalla%202025-04-22%20134903.png)
 
 # Diagrama Referencial
-![Diagrama Ref](file:///C:/Users/sanca/OneDrive/Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20de%20pantalla%202025-04-22%20135014.png)
+![Diagrama Ref](imagenes/Captura%20de%20pantalla%202025-04-22%20135014.png)
 
 # Menú de Java
 1. Registro de Animales
